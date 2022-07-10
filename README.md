@@ -37,3 +37,8 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/KONTA2019/contributions.svg" />
   </a>
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KONTA2019&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KONTA2019)](https://github.com/anuraghazra/github-readme-stats)
