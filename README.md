@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/KONTA2019">
     <img height="20" src="https://qiita-badge.apiapi.app/s/KONTA2019/posts.svg" />
   </a>
-  <//qiita.com/KONTA2019">
+  <a href="http://qiita.com/KONTA2019">
     <img height="20" src="https://qiita-badge.apiapi.app/s/KONTA2019/contributions.svg" />
   </a>
 </p>
