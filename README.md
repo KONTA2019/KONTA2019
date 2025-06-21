@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <!--   <a href="https://stackoverflow.com/users/5720201/KONTA2019">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a> -->
-  <a href="http://qiita.com/KONTA2019">
+<!--   <a href="http://qiita.com/KONTA2019">
     <img height="20" src="https://qiita-badge.apiapi.app/s/KONTA2019/posts.svg" />
   </a>
   <a href="http://qiita.com/KONTA2019">
     <img height="20" src="https://qiita-badge.apiapi.app/s/KONTA2019/contributions.svg" />
-  </a>
+  </a> -->
 </p>
 
 
